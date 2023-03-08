@@ -22,12 +22,7 @@
 	</properties>
 
 
-	<scm>
-		<connection>scm:git:ssh://git@bitbucket.org/nfleury/trxplorer.io.git</connection>
-		<developerConnection>scm:git:ssh://git@bitbucket.org/nfleury/trxplorer.io.git</developerConnection>
-		<url>https://bitbucket.org/nfleury/trxplorer.io</url>
-	  <tag>HEAD</tag>
-  </scm>
+	 
 
 	<distributionManagement>
 		<repository>
